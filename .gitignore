@@ -1,1 +1,3 @@
 .idea/
+server_api/dependency-reduced-pom.xml
+server_api/target/
