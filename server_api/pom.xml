@@ -271,7 +271,7 @@
                                 <transformer
                                         implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <manifestEntries>
-                                        <Main-Class>com.wedo.server.api.Main</Main-Class>
+                                        <Main-Class>com.pangbohao.server.Main</Main-Class>
                                         <Build-Number>20151120</Build-Number>
                                     </manifestEntries>
                                 </transformer>
